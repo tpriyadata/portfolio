@@ -1,8 +1,4 @@
 # portfolio
-Absolutely, Tamil — I can write a clean, professional **portfolio README** for your GitHub profile.  
-This will become the “front page” of your portfolio repo and make you look polished, intentional, and recruiter‑ready.
-
-# 🌟 **Tamil Priya Balaji — Data Analyst|Data Scientist | AI Engineer **
 
 Welcome to my portfolio. I build **real‑world AI systems**, **RAG chatbots**, and **industrial analytics pipelines** with a focus on **healthcare**, **STEM education**, and **community‑driven learning**.  
 I combine engineering, data science, and design thinking to create solutions that are **interpretable**, **scalable**, and **impact‑driven**.
