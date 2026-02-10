@@ -5,7 +5,7 @@ I combine engineering, data science, and design thinking to create solutions tha
 
 ---
 
-# 🚀 **About Me**
+#  **About Me**
 
 I am a multidisciplinary professional with experience across:
 
@@ -20,7 +20,7 @@ I specialize in building **transparent, reproducible analytics workflows** and t
 
 ---
 
-# 🧠 **Core Skills**
+#  **Core Skills**
 
 ### **AI & Machine Learning**
 - RAG (Retrieval‑Augmented Generation)
